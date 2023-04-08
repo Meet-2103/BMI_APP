@@ -5,6 +5,7 @@ import 'package:final_crieya/screens/signup/signup_screen.dart';
 
 import 'package:final_crieya/screens/welcome/components/background.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_svg/svg.dart';
 //import 'package:flutter_svg/flutter_svg.dart';
 
 class Body extends StatelessWidget {

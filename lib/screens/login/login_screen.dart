@@ -1,4 +1,4 @@
-import 'package:crieya_works/screens/login/components/body.dart';
+import 'package:final_crieya/screens/login/components/body.dart';
 import 'package:flutter/material.dart';
 
 class LoginScreen extends StatelessWidget {
