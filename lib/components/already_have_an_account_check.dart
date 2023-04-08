@@ -1,5 +1,7 @@
-import 'package:crieya_works/constants.dart';
+// import 'package:crieya_works/constants.dart';
 import 'package:flutter/material.dart';
+
+import '../constants.dart';
 
 class AlreadyHaveAnAccountCheck extends StatelessWidget {
   final bool login;
