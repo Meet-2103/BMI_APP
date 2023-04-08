@@ -1,5 +1,7 @@
-import 'package:crieya_works/constants.dart';
+
 import 'package:flutter/material.dart';
+
+import '../../../constants.dart';
 
 class OnDivider extends StatelessWidget {
   const OnDivider({super.key});
